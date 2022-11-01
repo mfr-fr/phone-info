@@ -1,0 +1,2 @@
+phonenumbers==8.12.57
+pystyle==2.0
