@@ -10,7 +10,7 @@
 - Linux ( Termux, Kali linux...) 
   ```
   git clone https://github.com/mfr-fr/phone-info.git
-  cd sms-sender
+  cd phone-info
   pip install -r requirements.txt
   python phone-info.py
   ```
@@ -37,7 +37,7 @@
 
  <h2><p align="center">📋Dependencies📋</p></h2>
 
-<b>sms-sender</b> requires following programs to run properly 
+<b>phone-info</b> requires following programs to run properly 
 - `git (for linux only)`
 - `python`
 
